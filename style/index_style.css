@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+.table{
+    border-radius: 15px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container_table{
+    background-color: white;
+    padding: 20px;
+    width: 840px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.container_add{
+    width: 840px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+.btn_tambah{
+    margin-left: 10px;
+}
+
+.btn_add{
+    margin-left: 30px;
+    font-size: 14px;
+}
+
+.btn-footer{
+    margin-top: 20px;
+}
+
+.field-edit{
+    margin-bottom: 15px;
+}
+
+.footer-edit{
+    float: right;
+}
+
+/* .dropdown_level{
+    width: 465px;
+} */
+
+.dropdown-level{
+  width: 200px;
+  height: 39px;
+  border-radius: 6px;
+  border-color: rgb(199, 199, 199);
+  padding-left: 10px;
+}

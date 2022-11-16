@@ -1,0 +1,33 @@
+.container_add {
+  width: 840px;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+
+}
+
+.btn_tambah {
+  margin-left: 10px;
+}
+
+.btn_add {
+  margin-left: 30px;
+  font-size: 14px;
+}
+
+.footer-edit {
+  margin-top: 30px;
+}
+
+.container_table {
+  width: 840px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.gambar{
+  width: 70px;
+  height: 70px;
+}

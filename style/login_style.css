@@ -1,0 +1,36 @@
+.container{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(226, 211, 191);
+    border-radius: 10px;
+    padding: 30px;
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.title_login{
+    font-size: 30px;
+}
+
+.create_account{
+  font-size: 12px;
+}
+
+.create_account a{
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.create{
+  margin-left: 5px;
+  margin-top: -3px;
+}
+
+.btnOk{
+  margin-top: -10px;
+}
